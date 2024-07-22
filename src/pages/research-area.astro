@@ -1,0 +1,29 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import Features from '~/components/widgets/Features.astro';
+
+const metadata = {
+  title: 'Documents',
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Features Widget *************** -->
+
+  <Features
+    id="features"
+    title="Research Area"
+    columns={2}
+    items={[
+      {
+        title: 'Area 1',
+        description: 'Description of Area 1'
+
+      },
+      {
+        title: 'Area 2',
+        description: `Description of Area 2`,
+      },
+    ]}
+  />
+
