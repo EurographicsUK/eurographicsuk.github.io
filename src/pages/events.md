@@ -6,7 +6,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ---
 
-### [CGVC2024](events/CGVC2024)
+### [CGVC2024](CGVC2024)
 *12 September 2024*\
 The [42nd conference](events/CGVC2024) will be held over two days at the [City, University of London](https://www.city.ac.uk/). ISBN of the proceedings: TBA.
 
