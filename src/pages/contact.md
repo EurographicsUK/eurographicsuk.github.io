@@ -13,8 +13,9 @@ Swansea\
 SA2 8PP\
 United Kingdom\
 +44 (0)1792 602609
+![](src/assets/images/address_1.png)
 <img src="address_1.png" width="30%"/>
-
+![](src/assets/images/address_1.png) { width: 30%;}
 
 ## Eurographics UK Chapter Secretary
 [Dr Franck P. Vidal](https://www.bangor.ac.uk/computer-science-and-electronic-engineering/staff/franck-vidal/en)\
