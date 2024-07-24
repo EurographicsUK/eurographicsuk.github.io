@@ -26,7 +26,7 @@ const whenExternalScripts = (items = []) =>
 
 export default defineConfig({
   site: 'https://EuroGraphicsUK.github.io',
-  base: 'eguk-website-code',
+  base: '/eguk-website-code',
   output: 'static',
 
   integrations: [
