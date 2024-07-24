@@ -25,6 +25,8 @@ const whenExternalScripts = (items = []) =>
   hasExternalScripts ? (Array.isArray(items) ? items.map((item) => item()) : [items()]) : [];
 
 export default defineConfig({
+  site: 'https://EuroGraphicsUK.github.io',
+  base: 'eguk-website-code',
   output: 'static',
 
   integrations: [
