@@ -4,47 +4,47 @@ export const headerData = {
   links: [
     {
       text: 'About',
-      href: getPermalink('/eguk-website-code/about'),
+      href: getPermalink('/about'),
     },
     {
       text: 'Research Area',
-      href: getPermalink('/eguk-website-code/research-area'),
+      href: getPermalink('/research-area'),
     },
     {
       text: 'Applications',
-      href: getPermalink('/eguk-website-code/applications'),
+      href: getPermalink('/applications'),
     },
     {
       text: 'Events',
-      href: getPermalink('/eguk-website-code/events'),
+      href: getPermalink('/events'),
     },
     {
       text: 'Blog',
-      href: getPermalink('/eguk-website-code/blog'),
+      href: getPermalink('/blog'),
     },
     {
       text: 'Courses',
-      href: getPermalink('/eguk-website-code/courses'),
+      href: getPermalink('/courses'),
     },
     {
       text: 'Conference Committees',
-      href: getPermalink('/eguk-website-code/IPC'),
+      href: getPermalink('/IPC'),
     },
     {
       text: 'Proceedings',
-      href: getPermalink('/eguk-website-code/proceedings'),
+      href: getPermalink('/proceedings'),
     },
     {
       text: 'Thanks',
-      href: getPermalink('/eguk-website-code/thanks'),
+      href: getPermalink('thanks'),
     },
     {
       text: 'Resources',
-      href: getPermalink('/eguk-website-code/resources'),
+      href: getPermalink('resources'),
     },
     {
       text: 'Contacts',
-      href: getPermalink('/eguk-website-code/contact'),
+      href: getPermalink('contact'),
     },
   ]
 };
