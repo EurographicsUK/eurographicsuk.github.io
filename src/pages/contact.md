@@ -13,7 +13,7 @@ Swansea\
 SA2 8PP\
 United Kingdom\
 +44 (0)1792 602609
-<img src="/eguk-website-code/address_1.png" width="30%"/>
+<img src="address_1.png" width="30%"/>
 
 
 ## Eurographics UK Chapter Secretary
