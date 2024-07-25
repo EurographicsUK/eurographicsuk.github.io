@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://eurographicsuk.github.io/eguk-website-code/sitemap-index.xml
