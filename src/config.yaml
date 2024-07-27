@@ -1,8 +1,6 @@
 site:
   name: EGUK # Name of the website
-  site: 'https://EuroGraphicsUK.github.io'   # Needs to update this 
-  base: '/eguk-website-code/'
-  trailingSlash: false
+  site: 'https://eurographicsuk.github.io'   # Needs to update this 
 
   googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M # What is this? 
 
