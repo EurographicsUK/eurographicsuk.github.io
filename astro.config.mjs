@@ -26,6 +26,8 @@ const whenExternalScripts = (items = []) =>
 
 export default defineConfig({
   site: 'https://EuroGraphicsUK.github.io',
+  output: 'static',
+  outDir: './docs',
 
   integrations: [
     tailwind({
