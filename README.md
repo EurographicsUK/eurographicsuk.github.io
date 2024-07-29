@@ -37,6 +37,11 @@ Both Fetch and Push URL under `* remote origin` should be the same with this rep
 
 4. Run the following command to install astro locally in this directory
 ```
+npm install 
+```
+
+Note: If astro cannot be installed properly via the command above, run the following command to install astro [manually](https://docs.astro.build/en/install-and-setup/#manual-setup):
+```
 npm install astro
 ```
 
